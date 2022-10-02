@@ -1,5 +1,5 @@
 {
-  "name": "template-crud-vue-vutify",
+  "name":"crud-students-vue-vutify",
   "version": "0.1.0",
   "private": true,
   "scripts": {
