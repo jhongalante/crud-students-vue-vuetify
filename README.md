@@ -1,4 +1,4 @@
-# CRUD de Alunos com VueJS 2 e Vuetify
+# CRUD de Alunos com Vue2 + Vuex + Vuetify
 
 ## Project setup
 ```
