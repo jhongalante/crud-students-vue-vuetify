@@ -1,4 +1,4 @@
-# Template de um CRUD com VueJS 2 e Vuetify
+# CRUD de Alunos com VueJS 2 e Vuetify
 
 ## Project setup
 ```
